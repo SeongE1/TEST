@@ -1,6 +1,8 @@
 <html>
 <body>
 <h2>GoodBye World!</h2>
-<div>행복이가 없어요</div>
+
+<p>행복이가 없어요</p>
+
 </body>
 </html>
